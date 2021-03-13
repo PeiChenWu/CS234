@@ -1,1 +1,1 @@
-# CS234-Reinforcement-Learning-Course-Projects
+# Stanford CS234 Course Projects
